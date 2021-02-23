@@ -19,6 +19,7 @@ public class BufferStreamDemo {
         byte[] bys = new byte[1024];
         int len;
         //while ((len=bys.)
+        //test
 
 
         bis.close();
